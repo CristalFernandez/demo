@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Sebastian Pasten" },
+    { "id": 1, "title": "Lionel Messi" },
     { "id": 2, "title": "Cristal Fernandez" },
-    { "id": 3, "title": "Lionel Messi" }
+    { "id": 3, "title": "Sebastian Pasten" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
