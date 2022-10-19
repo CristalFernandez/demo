@@ -1,0 +1,16 @@
+{
+    "Alumnos":[
+        {
+            "id": 1,
+            "usuario": "sebaPasten",
+            "contraseña": "seba123"
+        },
+
+        {
+            "id": 2,
+            "usuario": "CristFernandez",
+            "contraseña": "laminina9449"
+        }
+    ]
+
+}
